@@ -1,0 +1,495 @@
+Overall Statistics:
+range: 276946000
+median: 600000.0
+average: 1016149
+standard deviation: 3842142
+(trimmed, 0.95) mean: 697495
+--------------------------------------------------
+Neighborhood: BATH BEACH               
+range: 2122500
+median: 687500.0
+average: 776899.0384615385
+sales_count: 104
+(trimmed, 0.95) mean: 739274.4680851063
+standard deviation: 361322.1939808626
+------------------------------
+Neighborhood: BAY RIDGE                
+range: 19752000
+median: 772500.0
+average: 1002879.921641791
+sales_count: 268
+(trimmed, 0.95) mean: 806871.6487603306
+standard deviation: 1527793.6175170275
+------------------------------
+Neighborhood: BEDFORD STUYVESANT       
+range: 26999000
+median: 530000.0
+average: 710356.2111731843
+sales_count: 895
+(trimmed, 0.95) mean: 561650.73110285
+standard deviation: 1413141.4475075135
+------------------------------
+Neighborhood: BENSONHURST              
+range: 12700000
+median: 750000.0
+average: 839038.609561753
+sales_count: 251
+(trimmed, 0.95) mean: 756100.8061674009
+standard deviation: 982157.4647538301
+------------------------------
+Neighborhood: BERGEN BEACH             
+range: 1195000
+median: 585000.0
+average: 616044.3396226416
+sales_count: 53
+(trimmed, 0.95) mean: 600619.387755102
+standard deviation: 194354.87310101904
+------------------------------
+Neighborhood: BOERUM HILL              
+range: 22980000
+median: 1715000.0
+average: 2380108.7884615385
+sales_count: 52
+(trimmed, 0.95) mean: 1925442.2291666667
+standard deviation: 3164539.419105225
+------------------------------
+Neighborhood: BOROUGH PARK             
+range: 17497500
+median: 797500.0
+average: 974686.6115702479
+sales_count: 363
+(trimmed, 0.95) mean: 817660.9113149847
+standard deviation: 1263560.1735991861
+------------------------------
+Neighborhood: BRIGHTON BEACH           
+range: 10384000
+median: 450000.0
+average: 1152205.8333333333
+sales_count: 42
+(trimmed, 0.95) mean: 746332.7631578947
+standard deviation: 2315811.5095227407
+------------------------------
+Neighborhood: BROOKLYN HEIGHTS         
+range: 80575000
+median: 3205000.0
+average: 6243939.95
+sales_count: 40
+(trimmed, 0.95) mean: 4143266.472222222
+standard deviation: 12532090.545270462
+------------------------------
+Neighborhood: BROWNSVILLE              
+range: 3149000
+median: 370000.0
+average: 481700.45454545453
+sales_count: 99
+(trimmed, 0.95) mean: 401454.34065934067
+standard deviation: 554295.4376466058
+------------------------------
+Neighborhood: BUSH TERMINAL            
+range: 1846550
+median: 695000.0
+average: 919527.5
+sales_count: 20
+(trimmed, 0.95) mean: 872444.4444444445
+standard deviation: 550872.9167313981
+------------------------------
+Neighborhood: BUSHWICK                 
+range: 5699000
+median: 450000.0
+average: 519719.1484375
+sales_count: 512
+(trimmed, 0.95) mean: 467566.37012987013
+standard deviation: 460463.9851951822
+------------------------------
+Neighborhood: CANARSIE                 
+range: 6999000
+median: 386250.0
+average: 430653.3966101695
+sales_count: 295
+(trimmed, 0.95) mean: 377565.84269662923
+standard deviation: 521211.0845822481
+------------------------------
+Neighborhood: CARROLL GARDENS          
+range: 3585000
+median: 1650000.0
+average: 1750915.2542372881
+sales_count: 59
+(trimmed, 0.95) mean: 1725745.4545454546
+standard deviation: 816146.9433413112
+------------------------------
+Neighborhood: CLINTON HILL             
+range: 12583000
+median: 1175000.0
+average: 1652357.0704225353
+sales_count: 71
+(trimmed, 0.95) mean: 1350105.4153846153
+standard deviation: 1970587.567821532
+------------------------------
+Neighborhood: COBBLE HILL              
+range: 6584778
+median: 3100000.0
+average: 3030748.88
+sales_count: 25
+(trimmed, 0.95) mean: 2993630.434782609
+standard deviation: 1578994.1447373054
+------------------------------
+Neighborhood: COBBLE HILL-WEST         
+range: 2810000
+median: 1412500.0
+average: 1496875.0
+sales_count: 8
+(trimmed, 0.95) mean: 1496875.0
+standard deviation: 854922.4588898608
+------------------------------
+Neighborhood: CONEY ISLAND             
+range: 35570000
+median: 367500.0
+average: 2736008.846153846
+sales_count: 26
+(trimmed, 0.95) mean: 1479426.25
+standard deviation: 8271172.1167458845
+------------------------------
+Neighborhood: CROWN HEIGHTS            
+range: 21999000
+median: 622500.0
+average: 912257.6384615385
+sales_count: 390
+(trimmed, 0.95) mean: 710361.7017045454
+standard deviation: 1546398.2390056064
+------------------------------
+Neighborhood: CYPRESS HILLS            
+range: 25694450
+median: 365000.0
+average: 549293.2871794872
+sales_count: 195
+(trimmed, 0.95) mean: 371981.58757062146
+standard deviation: 1852508.225963892
+------------------------------
+Neighborhood: DOWNTOWN-FULTON FERRY    
+range: 45153500
+median: 4400000.0
+average: 13297944.444444444
+sales_count: 9
+(trimmed, 0.95) mean: 13297944.444444444
+standard deviation: 16313705.316474788
+------------------------------
+Neighborhood: DOWNTOWN-FULTON MALL     
+range: 69900000
+median: 5500000.0
+average: 13684247.466666667
+sales_count: 15
+(trimmed, 0.95) mean: 13684247.466666667
+standard deviation: 21885308.09496563
+------------------------------
+Neighborhood: DOWNTOWN-METROTECH       
+range: 0
+median: 2150000.0
+average: 2150000.0
+sales_count: 1
+(trimmed, 0.95) mean: 2150000.0
+standard deviation: DNE (only 1 data exist)
+------------------------------
+Neighborhood: DYKER HEIGHTS            
+range: 1799000
+median: 712000.0
+average: 727698.2634408602
+sales_count: 186
+(trimmed, 0.95) mean: 718486.7678571428
+standard deviation: 261062.1426071753
+------------------------------
+Neighborhood: EAST NEW YORK            
+range: 4949000
+median: 300000.0
+average: 370418.84914841846
+sales_count: 411
+(trimmed, 0.95) mean: 305125.5714285714
+standard deviation: 475451.6364143256
+------------------------------
+Neighborhood: FLATBUSH-CENTRAL         
+range: 22247906
+median: 669500.0
+average: 1684691.4210526317
+sales_count: 190
+(trimmed, 0.95) mean: 1129792.6569767443
+standard deviation: 3220692.9848928167
+------------------------------
+Neighborhood: FLATBUSH-EAST            
+range: 6059000
+median: 397000.0
+average: 560198.8604651163
+sales_count: 301
+(trimmed, 0.95) mean: 429567.60147601477
+standard deviation: 778682.869996124
+------------------------------
+Neighborhood: FLATBUSH-LEFFERTS GARDEN 
+range: 14081500
+median: 721000.0
+average: 1128045.217948718
+sales_count: 78
+(trimmed, 0.95) mean: 804139.2638888889
+standard deviation: 1998283.7587008511
+------------------------------
+Neighborhood: FLATBUSH-NORTH           
+range: 21997836
+median: 400000.0
+average: 820995.6875
+sales_count: 128
+(trimmed, 0.95) mean: 477588.6551724138
+standard deviation: 2240836.802530873
+------------------------------
+Neighborhood: FLATLANDS                
+range: 6195000
+median: 393600.0
+average: 571070.5303030303
+sales_count: 66
+(trimmed, 0.95) mean: 436717.95
+standard deviation: 849700.8579456875
+------------------------------
+Neighborhood: FORT GREENE              
+range: 13987000
+median: 1700000.0
+average: 2005119.4528301887
+sales_count: 53
+(trimmed, 0.95) mean: 1756829.5918367347
+standard deviation: 1968916.3470920376
+------------------------------
+Neighborhood: GERRITSEN BEACH          
+range: 707000
+median: 320000.0
+average: 290842.8
+sales_count: 50
+(trimmed, 0.95) mean: 285307.39130434784
+standard deviation: 151746.05081826265
+------------------------------
+Neighborhood: GOWANUS                  
+range: 18815763
+median: 1180000.0
+average: 2504610.2352941176
+sales_count: 68
+(trimmed, 0.95) mean: 1953979.9838709678
+standard deviation: 3789881.9727082
+------------------------------
+Neighborhood: GRAVESEND                
+range: 4487777
+median: 650000.0
+average: 702457.3333333334
+sales_count: 234
+(trimmed, 0.95) mean: 673883.6603773584
+standard deviation: 391907.41797583934
+------------------------------
+Neighborhood: GREENPOINT               
+range: 27398375
+median: 999000.0
+average: 1719244.7540983607
+sales_count: 122
+(trimmed, 0.95) mean: 1257403.6
+standard deviation: 2977306.592498298
+------------------------------
+Neighborhood: JAMAICA BAY              
+range: 0
+median: 13000000.0
+average: 13000000.0
+sales_count: 1
+(trimmed, 0.95) mean: 13000000.0
+standard deviation: DNE (only 1 data exist)
+------------------------------
+Neighborhood: KENSINGTON               
+range: 7393050
+median: 700000.0
+average: 891034.3902439025
+sales_count: 41
+(trimmed, 0.95) mean: 728177.8378378379
+standard deviation: 1086144.5739956738
+------------------------------
+Neighborhood: MADISON                  
+range: 9900000
+median: 645000.0
+average: 827837.609929078
+sales_count: 141
+(trimmed, 0.95) mean: 710874.8267716535
+standard deviation: 927513.2822084913
+------------------------------
+Neighborhood: MANHATTAN BEACH          
+range: 3862000
+median: 950000.0
+average: 1020984.8484848485
+sales_count: 33
+(trimmed, 0.95) mean: 953370.9677419355
+standard deviation: 699060.7815674953
+------------------------------
+Neighborhood: MARINE PARK              
+range: 970000
+median: 475000.0
+average: 473028.4161849711
+sales_count: 173
+(trimmed, 0.95) mean: 472625.98089171975
+standard deviation: 124560.33385789755
+------------------------------
+Neighborhood: MIDWOOD                  
+range: 13475000
+median: 675000.0
+average: 919727.743315508
+sales_count: 187
+(trimmed, 0.95) mean: 735154.3668639053
+standard deviation: 1401310.6055368304
+------------------------------
+Neighborhood: MILL BASIN               
+range: 276897000
+median: 797000.0
+average: 5771171.8
+sales_count: 55
+(trimmed, 0.95) mean: 763087.2352941176
+standard deviation: 37243204.326524645
+------------------------------
+Neighborhood: NAVY YARD                
+range: 3178000
+median: 610000.0
+average: 1045444.4444444445
+sales_count: 18
+(trimmed, 0.95) mean: 1045444.4444444445
+standard deviation: 997909.4749832962
+------------------------------
+Neighborhood: OCEAN HILL               
+range: 2449000
+median: 325000.0
+average: 385727.3333333333
+sales_count: 258
+(trimmed, 0.95) mean: 360915.92307692306
+standard deviation: 299024.1385164404
+------------------------------
+Neighborhood: OCEAN PARKWAY-NORTH      
+range: 5319000
+median: 735000.0
+average: 969488.4201183432
+sales_count: 169
+(trimmed, 0.95) mean: 868565.6405228758
+standard deviation: 780079.7498181529
+------------------------------
+Neighborhood: OCEAN PARKWAY-SOUTH      
+range: 5495000
+median: 700000.0
+average: 1040454.1879699248
+sales_count: 133
+(trimmed, 0.95) mean: 914263.9090909091
+standard deviation: 992237.8868606557
+------------------------------
+Neighborhood: OLD MILL BASIN           
+range: 962000
+median: 386125.0
+average: 400982.4903846154
+sales_count: 104
+(trimmed, 0.95) mean: 394463.43617021275
+standard deviation: 149649.88589675745
+------------------------------
+Neighborhood: PARK SLOPE               
+range: 14990000
+median: 2025000.0
+average: 2413091.0661764704
+sales_count: 136
+(trimmed, 0.95) mean: 2178077.7822580645
+standard deviation: 2001198.7465409425
+------------------------------
+Neighborhood: PARK SLOPE SOUTH         
+range: 8265000
+median: 1270000.0
+average: 1352677.9076923076
+sales_count: 65
+(trimmed, 0.95) mean: 1199959.7457627119
+standard deviation: 1150374.5619228047
+------------------------------
+Neighborhood: PROSPECT HEIGHTS         
+range: 6160000
+median: 1548500.0
+average: 1812202.914893617
+sales_count: 47
+(trimmed, 0.95) mean: 1687989.2325581396
+standard deviation: 1275350.464520053
+------------------------------
+Neighborhood: RED HOOK                 
+range: 25080647
+median: 765000.0
+average: 2077731.0
+sales_count: 27
+(trimmed, 0.95) mean: 1238969.36
+standard deviation: 5084806.18666023
+------------------------------
+Neighborhood: SEAGATE                  
+range: 710000
+median: 580250.0
+average: 558318.75
+sales_count: 8
+(trimmed, 0.95) mean: 558318.75
+standard deviation: 231472.21051580127
+------------------------------
+Neighborhood: SHEEPSHEAD BAY           
+range: 19488002
+median: 535000.0
+average: 696023.1069518717
+sales_count: 187
+(trimmed, 0.95) mean: 552447.9940828403
+standard deviation: 1457329.5056945619
+------------------------------
+Neighborhood: SPRING CREEK             
+range: 63993
+median: 419656.0
+average: 390929.8947368421
+sales_count: 38
+(trimmed, 0.95) mean: 391111.5833333333
+standard deviation: 31388.52584364658
+------------------------------
+Neighborhood: SUNSET PARK              
+range: 18494000
+median: 810000.0
+average: 1110310.7354085604
+sales_count: 257
+(trimmed, 0.95) mean: 875992.2446351931
+standard deviation: 1606682.3708193672
+------------------------------
+Neighborhood: WILLIAMSBURG-CENTRAL     
+range: 11505000
+median: 600000.0
+average: 1207326.64
+sales_count: 25
+(trimmed, 0.95) mean: 806007.2173913043
+standard deviation: 2282306.9141971767
+------------------------------
+Neighborhood: WILLIAMSBURG-EAST        
+range: 19395000
+median: 1135500.0
+average: 1960679.728
+sales_count: 125
+(trimmed, 0.95) mean: 1448048.9734513275
+standard deviation: 2914988.3493762547
+------------------------------
+Neighborhood: WILLIAMSBURG-NORTH       
+range: 31426398
+median: 2520287.5
+average: 4456557.333333333
+sales_count: 48
+(trimmed, 0.95) mean: 3615759.090909091
+standard deviation: 6023070.254578008
+------------------------------
+Neighborhood: WILLIAMSBURG-SOUTH       
+range: 31566034
+median: 1225000.0
+average: 3467686.685714286
+sales_count: 35
+(trimmed, 0.95) mean: 2718636.3636363638
+standard deviation: 5718778.607406818
+------------------------------
+Neighborhood: WINDSOR TERRACE          
+range: 1600000
+median: 907500.0
+average: 1047804.3148148148
+sales_count: 54
+(trimmed, 0.95) mean: 1050528.66
+standard deviation: 387079.53845220327
+------------------------------
+Neighborhood: WYCKOFF HEIGHTS          
+range: 1240000
+median: 620000.0
+average: 635751.131147541
+sales_count: 61
+(trimmed, 0.95) mean: 630560.3454545455
+standard deviation: 270049.86196117406
+------------------------------
